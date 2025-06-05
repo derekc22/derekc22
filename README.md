@@ -2,14 +2,14 @@
 
 Welcome to my GitHub! I am a graduate student at the University of Southern California pursuing an M.S. in Electrical and Computer Engineering (Machine Learning and Data Science), following a B.S. in Aerospace Engineering. My work lies at the intersection of robotics, machine learning, control systems, and engineering. 
 
-## 🧠 Areas of Focus
+## 💡 Areas of Focus
 
 ### 🦿 Robotics and Control Systems
 - System identification for actuator and sensor dynamics in legged robots
 - Control algorithm testing and development in MuJoCo for terrain-robust, biomimetic locomotion
 - Trajectory optimization and inverse kinematics for underactuated systems
 
-### 🧮 Machine Learning and Data Science
+### 🤖 Machine Learning and Data Science
 - Lightweight deep learning library design with unified training and evaluation pipelines (PyTorch)
 - Temporal modeling using LSTM, Transformer, and TCN architectures
 - High-dimensional data analysis with t-SNE, PCA, and HDBSCAN
@@ -20,7 +20,7 @@ Welcome to my GitHub! I am a graduate student at the University of Southern Cali
 - State-space modeling and validation for shock-isolated mechanical systems
 - Parametric sensitivity studies and workflow automation for simulation pipelines
 
-## 🧠 Experience Highlights
+## 🗂️ Experience Highlights
 
 - **Lawrence Livermore National Laboratory**: Apply HPC and computational engineering techniques to simulate large-scale structural mechanics and investigate nonlinear interface dynamics.
 - **Dynamic Robotics and Control Lab @ USC**: Help develop ML pipelines, control algorithms, and Sim2Real strategies for robust locomotion in legged robots.
