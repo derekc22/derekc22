@@ -22,8 +22,8 @@ Welcome to my GitHub! I am a graduate student at the University of Southern Cali
 
 ## 🧠 Experience Highlights
 
-- **Lawrence Livermore National Laboratory**: Applied HPC techniques to simulate large-scale structural mechanics and investigated nonlinear interface dynamics.
-- **Dynamic Robotics and Control Lab @ USC**: Helped develop ML pipelines, control algorithms, and Sim2Real strategies for robust locomotion in legged robots.
+- **Lawrence Livermore National Laboratory**: Apply HPC techniques to simulate large-scale structural mechanics and investigate nonlinear interface dynamics.
+- **Dynamic Robotics and Control Lab @ USC**: Help develop ML pipelines, control algorithms, and Sim2Real strategies for robust locomotion in legged robots.
 - **Northrop Grumman**: Built state-space models, validated FEA simulations, and optimized shock isolation systems.
 - **Amazon/Information Sciences Institute**: Engineered a 6-DoF pose estimation and tracking algorithm for NASA’s Astrobee robot using computer vision.
 
