@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Derek Chibuzor
+# 👋 Hi, I'm Derek
 
 Welcome to my GitHub! I am a graduate student at the University of Southern California pursuing an M.S. in Electrical and Computer Engineering (Machine Learning and Data Science), following a B.S. in Aerospace Engineering. My work lies at the intersection of robotics, machine learning, control systems, and engineering. 
 
@@ -24,7 +24,7 @@ Welcome to my GitHub! I am a graduate student at the University of Southern Cali
 
 - **Lawrence Livermore National Laboratory**: Applied HPC techniques to simulate large-scale structural mechanics and investigated nonlinear interface dynamics.
 - **Dynamic Robotics and Control Lab @ USC**: Developed ML pipelines, control algorithms, and Sim2Real strategies for robust locomotion in legged robots.
-- **Northrop Grumman**: Built state-space models, validated FEA simulations, and optimized dynamic isolation systems for defense structures.
+- **Northrop Grumman**: Built state-space models, validated FEA simulations, and optimized shock isolation systems.
 - **Amazon/Information Sciences Institute**: Engineered a 6-DoF pose estimation and tracking algorithm for NASA’s Astrobee robot using computer vision and adaptive control.
 
 ## 🛠️ Current Personal Projects
