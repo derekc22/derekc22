@@ -9,7 +9,7 @@ Welcome to my GitHub! I am a graduate student at the University of Southern Cali
 - Control algorithm testing and development in MuJoCo for terrain-robust, biomimetic locomotion
 - Trajectory optimization and inverse kinematics for underactuated systems
 
-### 🤖 Machine Learning and Data Science
+### 🤖 Machine Learning
 - Lightweight deep learning library design with unified training and evaluation pipelines (PyTorch)
 - Temporal modeling using LSTM, Transformer, and TCN architectures
 - High-dimensional data analysis with t-SNE, PCA, and HDBSCAN
