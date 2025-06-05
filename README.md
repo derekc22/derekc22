@@ -37,8 +37,8 @@ A lightweight deep learning library featuring MLP, CNN, RNN, and LSTM architectu
 
 ## 💼 Skills Snapshot
 
-- **Languages**: Python, C++, MATLAB, Java
-- **Tools & Libraries**: PyTorch, MuJoCo, JAX, OpenCV, Simulink, Abaqus
+- **Languages**: Python, C++, MATLAB, Java, JavaScript, HTML/CSS
+- **Tools & Libraries**: PyTorch, MuJoCo, JAX, OpenCV, Simulink, React, NodeJS, Docker, Git
 
 ## 🔗 Connect with Me
 
