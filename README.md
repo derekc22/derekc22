@@ -14,7 +14,7 @@ Welcome to my GitHub! I am a graduate student at the University of Southern Cali
 - Temporal modeling using LSTM, Transformer, and TCN architectures
 - High-dimensional data analysis with t-SNE, PCA, and HDBSCAN
 
-### 🏗️ Structural Mechanics and High-Performance Computing
+### 🏗️ Computational Engineering & High-Performance Computing
 - Large-scale structural simulations on HPC platforms using FEA and dynamic solvers
 - Nonlinear model development for contact mechanics and interface coupling
 - State-space modeling and validation for shock-isolated mechanical systems
