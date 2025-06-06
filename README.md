@@ -15,7 +15,7 @@ Welcome to my GitHub! I am a graduate student at the University of Southern Cali
 - High-dimensional data analysis with t-SNE, PCA, and HDBSCAN
 
 ### 🏗️ Computational Engineering & High-Performance Computing
-- Large-scale structural simulations on HPC platforms using FEA and dynamic solvers
+- Large-scale structural simulations on HPC platforms using FEA and implicit/explicit solvers
 - Nonlinear model development for contact mechanics and interface coupling
 - State-space modeling and validation for shock-isolated mechanical systems
 - Parametric sensitivity studies and workflow automation for simulation pipelines
