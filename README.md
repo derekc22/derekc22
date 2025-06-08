@@ -20,7 +20,7 @@ Welcome to my GitHub! I am a graduate student at the University of Southern Cali
 - State-space modeling and validation for shock-isolated mechanical systems
 - Parametric sensitivity studies and workflow automation for simulation pipelines
 
-## 🗂️ Experience Highlights
+## 🗂️ Experience
 
 - **Lawrence Livermore National Laboratory**: Apply HPC and computational engineering techniques to simulate large-scale structural mechanics and investigate nonlinear interface dynamics.
 - **Dynamic Robotics and Control Lab @ USC**: Help develop ML pipelines, control algorithms, and Sim2Real strategies for robust locomotion in legged robots.
@@ -35,7 +35,7 @@ A lightweight deep learning library featuring MLP, CNN, RNN, and LSTM architectu
 - 72.1% on a Kaggle classification task
 - 98.2% accuracy for stress tensor classification
 
-## 💼 Skills Snapshot
+## 💼 Skills
 
 - **Languages**: Python, C++, MATLAB, Java, JavaScript, HTML/CSS
 - **Tools & Libraries**: PyTorch, MuJoCo, JAX, OpenCV, Simulink, React, NodeJS, Docker, Git
