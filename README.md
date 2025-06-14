@@ -15,7 +15,7 @@ Welcome to my GitHub! I am a graduate student at the University of Southern Cali
 - High-dimensional data analysis with t-SNE, PCA, and HDBSCAN
 
 ### 🏗️ Computational Engineering & High-Performance Computing
-- Large-scale structural simulations on HPC platforms using FEA and implicit/explicit solvers
+- Large-scale structural dynamics simulations on HPC platforms using implicit/explicit FEA solvers
 - Nonlinear model development for contact mechanics and interface coupling
 - State-space modeling and validation for shock-isolated mechanical systems
 - Parametric sensitivity studies and workflow automation for simulation pipelines
@@ -38,7 +38,8 @@ A lightweight deep learning library featuring MLP, CNN, RNN, and LSTM architectu
 ## 💼 Skills
 
 - **Languages**: Python, C++, MATLAB, Java, JavaScript, HTML/CSS
-- **Tools & Libraries**: PyTorch, MuJoCo, JAX, OpenCV, Simulink, React, NodeJS, Docker, Git
+- **Machine Learning & Robotics**: PyTorch, MuJoCo, JAX, OpenCV, Gymnasium/OpenAI Gym, stable baselines3
+- **Other** React, NodeJS, Docker, Git
 
 ## 🔗 Connect with Me
 
