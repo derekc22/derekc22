@@ -27,13 +27,19 @@ Welcome to my GitHub! I am a graduate student at the University of Southern Cali
 - **Northrop Grumman**: Built state-space models, validated FEA simulations, and optimized shock isolation systems.
 - **Amazon/Information Sciences Institute**: Engineered a 6-DoF pose estimation and tracking algorithm for NASA’s Astrobee robot using computer vision.
 
-## 🛠️ Current Personal Projects
+## 🛠️ Current Projects
 
 ### [NN](https://github.com/derekc22/NN)
 A lightweight deep learning library featuring MLP, CNN, RNN, and LSTM architectures. Built with extensibility and educational value in mind. Achieved:
 - 99% accuracy on MNIST
 - 72.1% on a Kaggle classification task
 - 98.2% accuracy for stress tensor classification
+
+### [UR3e](https://github.com/derekc22/UR3e)
+A simulation environment for the Universal Robots UR3e robotic arm with integrated Robotiq 2F85 gripper built on the Gymnasium framework and MuJoCo physics engine
+- Integrated Gripper: Complete Robotiq 2F85 gripper model with realistic actuation
+- Gymnasium Integration: Fully compatible with Gymnasium's RL interface
+- Sensor Feedback: Force/torque sensors at each joint and touch sensors on gripper pads
 
 ## 💼 Skills
 
