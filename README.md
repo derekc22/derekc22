@@ -9,7 +9,7 @@ Welcome to my GitHub! I am a graduate student at the University of Southern Cali
 - Control algorithm testing and development in MuJoCo for terrain-robust, biomimetic locomotion
 - Trajectory optimization and inverse kinematics for underactuated systems
 
-### 🤖 Machine Learning
+### 🤖 Machine Learning & Reinforcement Learning
 - Lightweight deep learning library design with unified training and evaluation pipelines (PyTorch)
 - Temporal modeling using LSTM, Transformer, and TCN architectures
 - High-dimensional data analysis with t-SNE, PCA, and HDBSCAN
@@ -36,7 +36,7 @@ A lightweight deep learning library featuring MLP, CNN, RNN, and LSTM architectu
 - 98.2% accuracy for stress tensor classification
 
 ### [UR3e](https://github.com/derekc22/UR3e)
-A simulation environment for the Universal Robots UR3e robotic arm with integrated Robotiq 2F85 gripper built on the Gymnasium framework and MuJoCo physics engine
+A simulation environment for the Universal Robots UR3e robotic arm with integrated Robotiq 2F85 gripper built on the Gymnasium framework and MuJoCo physics engine.
 - Integrated Gripper: Complete Robotiq 2F85 gripper model with realistic actuation
 - Gymnasium Integration: Fully compatible with Gymnasium's RL interface
 - Sensor Feedback: Force/torque sensors at each joint and touch sensors on gripper pads
