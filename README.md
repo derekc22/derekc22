@@ -14,9 +14,7 @@ Welcome to my GitHub! I am a graduate student at the University of Southern Cali
 - Temporal modeling using LSTM, Transformer, and TCN architectures
 - High-dimensional data analysis with t-SNE, PCA, and HDBSCAN
 
-### 🏗️ Computational Engineering & High-Performance Computing
-- Large-scale structural dynamics simulations on HPC platforms using implicit/explicit FEA solvers
-- Nonlinear model development for contact mechanics and interface coupling
+### 🏗️ Mechanical & Computational Engineering
 - State-space modeling and validation for shock-isolated mechanical systems
 - Parametric sensitivity studies and workflow automation for simulation pipelines
 
@@ -35,16 +33,10 @@ A lightweight deep learning library featuring MLP, CNN, RNN, and LSTM architectu
 - 72.1% on a Kaggle classification task
 - 98.2% accuracy for stress tensor classification
 
-### [UR3e](https://github.com/derekc22/UR3e)
-A simulation environment for the Universal Robots UR3e robotic arm with integrated Robotiq 2F85 gripper built on the Gymnasium framework and MuJoCo physics engine.
-- Integrated Gripper: Complete Robotiq 2F85 gripper model with realistic actuation
-- Gymnasium Integration: Fully compatible with Gymnasium's RL interface
-- Sensor Feedback: Force/torque sensors at each joint and touch sensors on gripper pads
-
 ## 💼 Skills
 
 - **Languages**: Python, C++, MATLAB, Java, JavaScript, HTML/CSS
-- **Machine Learning & Robotics**: PyTorch, MuJoCo, JAX, OpenCV, Gymnasium/OpenAI Gym, stable baselines3
+- **Machine Learning & Robotics**: PyTorch, MuJoCo, JAX, OpenCV
 - **Other** React, NodeJS, Docker, Git
 
 ## 🔗 Connect with Me
