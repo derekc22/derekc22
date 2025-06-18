@@ -50,4 +50,3 @@ A simulation environment for the Universal Robots UR3e robotic arm with integrat
 - 📧 chibuzor@usc.edu  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/derekchibuzor)  
 - 🌐 [Amazon Science Feature](https://www.amazon.science/news-and-features/usc-sure-student-develops-prototype-algorithm-to-help-automate-spacecraft-docking)
-![image](https://github.com/user-attachments/assets/e1f4dd7c-3914-464d-bb96-89185b76c57f)
