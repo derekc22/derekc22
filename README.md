@@ -6,8 +6,7 @@ Welcome to my GitHub! I am a graduate student at the University of Southern Cali
 
 ### Robotics and Control Systems
 - System identification for actuator and sensor dynamics in legged robots
-- Control algorithm testing and development in MuJoCo for terrain-robust, biomimetic locomotion
-- Trajectory optimization and inverse kinematics for underactuated systems
+- Inverse kinematics control algorithm testing and development in MuJoCo for biomimetic locomotion
 
 ### Machine Learning
 - Deep learning workflow design with training and evaluation pipelines
@@ -21,7 +20,7 @@ Welcome to my GitHub! I am a graduate student at the University of Southern Cali
 ## Experience
 
 - **Lawrence Livermore National Laboratory**: Apply HPC and computational engineering techniques to simulate structural mechanics and investigate nonlinear interface dynamics.
-- **Dynamic Robotics and Control Laboratory**: Help develop ML pipelines, control algorithms, and Sim2Real strategies for robust locomotion in legged robots.
+- **Dynamic Robotics and Control Laboratory**: Help develop ML training pipelines, control algorithms, and Sim2Real strategies for legged robots.
 - **Northrop Grumman**: Built state-space models, validated FEA simulations, and optimized shock isolation systems.
 - **Amazon/Information Sciences Institute**: Engineered a 6-DoF pose estimation and tracking algorithm for NASA’s Astrobee robot using computer vision.
 
@@ -42,7 +41,7 @@ A simulation environment for the Universal Robots UR3e robotic arm with integrat
 ## Skills
 
 - **Languages**: Python, C++, MATLAB, Java, JavaScript, HTML/CSS
-- **Machine Learning & Robotics**: PyTorch, MuJoCo, JAX, OpenCV, Gymnasium, Stable-Baselines3
+- **Machine Learning & Robotics**: PyTorch, MuJoCo, OpenCV, Gymnasium, Stable-Baselines3
 - **Other** React, NodeJS, Docker, Git
 
 ## Connect with Me
