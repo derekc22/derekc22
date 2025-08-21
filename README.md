@@ -6,10 +6,12 @@ Welcome to my GitHub! I am a graduate student at the University of Southern Cali
 
 ### Robotics and Control Systems
 - System identification for actuator and sensor dynamics in legged robots
-- Inverse kinematics control algorithm testing and development in MuJoCo for biomimetic locomotion
+- Inverse kinematics control algorithm testing and development in MuJoCo
+- Model predictive control (MPC) and linear quadratic control (LQR)
 
 ### Machine Learning
 - Deep learning workflow design with training and evaluation pipelines
+- Reinforcement learning workflow design with training and evaluation pipelines
 - Temporal modeling using LSTM, Transformer, and TCN architectures
 - High-dimensional data analysis with t-SNE, PCA, and HDBSCAN
 
@@ -36,7 +38,7 @@ A deep learning library featuring CNN, RNN, LSTM, and Transformer (WIP) architec
 A simulation environment for the Universal Robots UR3e robotic arm with integrated Robotiq 2F85 gripper built using Gymnasium and MuJoCo.
 - UR3e with integrated 2F85 gripper
 - Compatible with Gymnasium's RL interface for training with PPO and DQN (WIP)
-- Joint force/torque sensors and touch sensors on gripper pads
+- Full utility suite for rich observation-space data collection and control
 
 ## Skills
 
