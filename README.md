@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Derek
 
-Welcome to my GitHub! I am a graduate student at the University of Southern California pursuing an M.S. in Electrical Engineering (Machine Learning and Data Science), following a B.S. in Aerospace Engineering. My interests lie at the intersection of robotics, machine learning, control systems, and engineering. 
+Welcome to my GitHub! I am a graduate student at the University of Southern California pursuing an M.S. in Mechanical Engineering, following a B.S. in Aerospace Engineering. My interests lie at the intersection of robotics, machine learning, control systems, and engineering. 
 
 ## Areas of Focus
 
