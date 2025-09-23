@@ -40,6 +40,9 @@ A simulation environment for the Universal Robots UR3e robotic arm with integrat
 - Compatible with Gymnasium's RL interface for training with PPO and DQN (WIP)
 - Full utility suite for rich observation-space data collection and control
 
+### [LQR](https://github.com/derekc22/LQR)
+LQR controller for an inverted pendulum (cartpole)
+
 ## Skills
 
 - **Languages**: Python, C++, MATLAB, Java, JavaScript, HTML/CSS
