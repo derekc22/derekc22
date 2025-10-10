@@ -26,7 +26,7 @@ Welcome to my GitHub! I am a graduate student at the University of Southern Cali
 - **Northrop Grumman**: Built state-space models, validated FEA simulations, and optimized shock isolation systems.
 - **Amazon/Information Sciences Institute**: Engineered a 6-DoF pose estimation and tracking algorithm for NASA’s Astrobee robot using computer vision.
 
-## Current Projects
+## Select Projects
 
 ### [NN](https://github.com/derekc22/NN)
 A deep learning library featuring CNN, RNN, LSTM, and Transformer (WIP) architectures. Built with extensibility and educational value in mind. Models achieved:
@@ -41,7 +41,11 @@ A simulation environment for the Universal Robots UR3e robotic arm with integrat
 - Full utility suite for rich observation-space data collection and control
 
 ### [LQR](https://github.com/derekc22/LQR)
-LQR controller for an inverted pendulum (cartpole)
+LQR controller for an inverted pendulum (cartpole).
+
+### [drone3D](https://github.com/derekc22/drone3D)
+3D drone simulation in MATLAB.
+- Translational and rotational drone dynamics simulated using ode45.
 
 ## Skills
 
