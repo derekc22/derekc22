@@ -1,60 +1,32 @@
 # 👋 Hi, I'm Derek
 
-Welcome to my GitHub! I am a graduate student at the University of Southern California pursuing an M.S. in Mechanical Engineering, following a B.S. in Aerospace Engineering. My interests are in the fields of robotics, machine learning, control theory, and optimization. 
+Welcome to my GitHub! I am a graduate student at the University of Southern California pursuing an M.S. in Mechanical Engineering, following a B.S. in Aerospace Engineering.
 
-## Areas of Focus
-
-### Robotics and Control Systems
-- System identification for actuator and sensor dynamics in legged robots
-- Inverse kinematics control algorithm testing and development in MuJoCo
-- Model predictive control (MPC) and linear quadratic control (LQR)
-
-### Machine Learning
-- Deep learning workflow design with training and evaluation pipelines
-- Reinforcement learning workflow design with training and evaluation pipelines
-- Temporal modeling using LSTM, Transformer, and TCN architectures
-- High-dimensional data analysis with t-SNE, PCA, and HDBSCAN
-
-### Mechanical & Computational Engineering
-- State-space modeling and validation for shock-isolated mechanical systems
-- Parametric sensitivity studies and workflow automation for simulation pipelines
+## Interests
+- Robotics
+- Dynamics
+- Control and Optimal Control
+- GNC
+- Flight Mechanics
+- Trajectory Optimization
+- System Identification
+- Deep Learning and Reinforcement Learning
+- System and Hardware Integration
 
 ## Experience
 
-- **Lawrence Livermore National Laboratory**: Apply HPC and computational engineering techniques to simulate structural mechanics and investigate nonlinear interface dynamics.
-- **Dynamic Robotics and Control Laboratory**: Help develop ML training pipelines, control algorithms, and Sim2Real strategies for legged robots.
-- **Northrop Grumman**: Built state-space models, validated FEA simulations, and optimized shock isolation systems.
-- **Amazon/Information Sciences Institute**: Engineered a 6-DoF pose estimation and tracking algorithm for NASA’s Astrobee robot using computer vision.
-
-## Select Projects
-
-### [NN](https://github.com/derekc22/NN)
-A deep learning library featuring CNN, RNN, LSTM, and Transformer (WIP) architectures. Built with extensibility and educational value in mind. Models achieved:
-- 99% accuracy on MNIST
-- 72.1% on a Kaggle classification task
-- 98.2% accuracy for stress tensor classification
-
-### [UR3e](https://github.com/derekc22/UR3e)
-A simulation environment for the Universal Robots UR3e robotic arm with integrated Robotiq 2F85 gripper built using Gymnasium and MuJoCo.
-- UR3e with integrated 2F85 gripper
-- Compatible with Gymnasium's RL interface for training with PPO and DQN (WIP)
-- Full utility suite for rich observation-space data collection and control
-
-### [LQR](https://github.com/derekc22/LQR)
-LQR controller for an inverted pendulum (cartpole).
-
-### [drone3D](https://github.com/derekc22/drone3D)
-3D drone simulation in MATLAB.
-- Translational and rotational drone dynamics simulated using ode45.
+- **[Dynamic Robotics and Control Laboratory](https://sites.usc.edu/quann/)**: Diffusion modeling, hybrid optimization, and system identification for robotics.
+- **Lawrence Livermore National Laboratory**: HPC structural dynamics and finite element analysis simulations; UR3e learning and control.
+- **Northrop Grumman**: Reduced-order state-space modeling for shock-isolated systems.
+- **Amazon/Information Sciences Institute**: Vision-based localization algorithm for pose estimation and Rendezvous, Proximity Operations (RPO).
 
 ## Skills
 
-- **Languages**: Python, C++, MATLAB, Java, JavaScript, HTML/CSS
-- **Machine Learning & Robotics**: PyTorch, MuJoCo, OpenCV, Gymnasium, Stable-Baselines3
-- **Other** React, NodeJS, Docker, Git
+- **Languages**: Python, C++, MATLAB, Java, JavaScript
+- **Tools**: PyTorch, Simulink, MuJoCo, JAX, OpenCV, Gymnasium, Stable-Baselines3, ROS2, CasADi
+- **Other** React, NodeJS, Docker
 
 ## Connect with Me
 
-- 📧 chibuzor@usc.edu  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/derekchibuzor)  
 - 🌐 [Amazon Science Feature](https://www.amazon.science/news-and-features/usc-sure-student-develops-prototype-algorithm-to-help-automate-spacecraft-docking)
