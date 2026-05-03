@@ -13,7 +13,7 @@ Welcome to my GitHub!
 - Deep Learning and Reinforcement Learning
 - System and Hardware Integration
 
-## Connect with Me
+## Connect
 
 - 🔗 [Website](https://derekc22.github.io/)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/derekchibuzor)  
